@@ -1,6 +1,6 @@
 # BertMoodel
 ##Project: COMPARISON OF BERT GRAPH TRANSFORMER APPLICATION WITH CLASSIC BERT MODEL/BERT ÇIZGE TRANSFORMER UYGULAMASININ KLASIK BERT MODELI ILE KARŞILAŞTIRILMASI
-
+## Dataset: coraDataset
 English
 ##ABSTRACT
 The aim of this project is to compare the BERT graphic transformer application
